@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-users",
+  "version": "1.0.0",
+  "description": "Simulazione gestione ristorante",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restaurant",
+    "gestione",
+    "users",
+    "users"
+  ],
+  "author": "Luigi Samperi <luigi.samperi90@gmail.com>",
+  "license": "MIT"
+}
